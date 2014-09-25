@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[The City Selected is:delhi]]>
+    </line>
+    <line>
+      <![CDATA[The City Selected is:bangalore]]>
+    </line>
+    <line>
+      <![CDATA[I want sell new bicycle  13 hours ago]]>
+    </line>
+    <line>
+      <![CDATA[I want to sell my children bicycle  18 hours ago]]>
+    </line>
+    <line>
+      <![CDATA[Old rebillo 615 bicycle  22 hours ago]]>
+    </line>
+    <line>
+      <![CDATA[1 year old 2 bicycles with good condition  23-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Volcano zx bicycle for sale  23-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Stylish bicycles (top branded)  22-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Hero make bicycle miss india gold  22-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Bsa champ toons 16 inches kid's bicycle on sale  22-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Bsa make bicycle great deal  21-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Red,silver & black color used a1 champ bicycle for sale in hyderabad  21-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Bicycle for sale for rs:1500  21-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[2months old archer bicycle  21-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Branded kid's bicycle for sale  21-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Used girls bicycles for sale  20-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Bicycle of fantom  19-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Hercules bicycle for 6 years children  18-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Atlas contender shox bicycle  18-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Hero ranger swing bicycle for sale  16-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Orbitrek elite exercise bicycle for sale 2013 bought  16-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Hero 6-gear bicycle for 4,800 only; 10 months old in an excellent condition  15-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[I want to sell kids bicycle good condition  15-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[1 year old bicycle  14-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Kids bicycle aged 5 to 8 years  14-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Sale of my bicycle  13-Sep-14]]>
+    </line>
+    <line>
+      <![CDATA[Atlas kids bicycle for sale  13-Sep-14]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="178867" started-at="2014-09-25T10:23:08Z" finished-at="2014-09-25T10:26:07Z">
+    <groups>
+    </groups>
+    <test name="Change City Test" duration-ms="61320" started-at="2014-09-25T10:23:08Z" finished-at="2014-09-25T10:24:10Z">
+      <class name="tests.ChangeCity">
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.ChangeCity@87c801]" name="before" is-config="true" duration-ms="8153" started-at="2014-09-25T15:53:08Z" finished-at="2014-09-25T15:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="changeCityRandom()[pri:0, instance:tests.ChangeCity@87c801]" name="changeCityRandom" duration-ms="16511" started-at="2014-09-25T15:53:17Z" finished-at="2014-09-25T15:53:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The City Selected is:delhi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- changeCityRandom -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.ChangeCity@87c801]" name="after" is-config="true" duration-ms="2891" started-at="2014-09-25T15:53:33Z" finished-at="2014-09-25T15:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.ChangeCity@87c801]" name="before" is-config="true" duration-ms="8258" started-at="2014-09-25T15:53:36Z" finished-at="2014-09-25T15:53:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="changeCityTextBox()[pri:0, instance:tests.ChangeCity@87c801]" name="changeCityTextBox" duration-ms="22786" started-at="2014-09-25T15:53:44Z" finished-at="2014-09-25T15:54:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The City Selected is:bangalore]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- changeCityTextBox -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.ChangeCity@87c801]" name="after" is-config="true" duration-ms="2710" started-at="2014-09-25T15:54:07Z" finished-at="2014-09-25T15:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.ChangeCity -->
+    </test> <!-- Change City Test -->
+    <test name="Post Free Ad Test" duration-ms="31251" started-at="2014-09-25T10:24:10Z" finished-at="2014-09-25T10:24:41Z">
+      <class name="tests.PostFreeAd">
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.PostFreeAd@a83610]" name="before" is-config="true" duration-ms="9179" started-at="2014-09-25T15:54:10Z" finished-at="2014-09-25T15:54:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="postAd()[pri:0, instance:tests.PostFreeAd@a83610]" name="postAd" duration-ms="22072" started-at="2014-09-25T15:54:19Z" finished-at="2014-09-25T15:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAd -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.PostFreeAd@a83610]" name="after" is-config="true" duration-ms="0" started-at="2014-09-25T15:54:41Z" finished-at="2014-09-25T15:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.PostFreeAd -->
+    </test> <!-- Post Free Ad Test -->
+    <test name="Verify Shared Links Test" duration-ms="53731" started-at="2014-09-25T10:24:41Z" finished-at="2014-09-25T10:25:35Z">
+      <class name="tests.SharedLinks">
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.SharedLinks@dea8b3]" name="before" is-config="true" duration-ms="2412" started-at="2014-09-25T15:54:41Z" finished-at="2014-09-25T15:54:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="clickSharedLink()[pri:0, instance:tests.SharedLinks@dea8b3]" name="clickSharedLink" duration-ms="49675" started-at="2014-09-25T15:54:44Z" finished-at="2014-09-25T15:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSharedLink -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.SharedLinks@dea8b3]" name="after" is-config="true" duration-ms="1643" started-at="2014-09-25T15:55:33Z" finished-at="2014-09-25T15:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.SharedLinks -->
+    </test> <!-- Verify Shared Links Test -->
+    <test name="Date Sorting Test" duration-ms="17323" started-at="2014-09-25T10:25:35Z" finished-at="2014-09-25T10:25:52Z">
+      <class name="tests.DateSorting">
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.DateSorting@e89338]" name="before" is-config="true" duration-ms="9029" started-at="2014-09-25T15:55:35Z" finished-at="2014-09-25T15:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="searchDateSort()[pri:0, instance:tests.DateSorting@e89338]" name="searchDateSort" duration-ms="8292" started-at="2014-09-25T15:55:44Z" finished-at="2014-09-25T15:55:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[I want sell new bicycle  13 hours ago]]>
+            </line>
+            <line>
+              <![CDATA[I want to sell my children bicycle  18 hours ago]]>
+            </line>
+            <line>
+              <![CDATA[Old rebillo 615 bicycle  22 hours ago]]>
+            </line>
+            <line>
+              <![CDATA[1 year old 2 bicycles with good condition  23-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Volcano zx bicycle for sale  23-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Stylish bicycles (top branded)  22-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Hero make bicycle miss india gold  22-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Bsa champ toons 16 inches kid's bicycle on sale  22-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Bsa make bicycle great deal  21-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Red,silver & black color used a1 champ bicycle for sale in hyderabad  21-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Bicycle for sale for rs:1500  21-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[2months old archer bicycle  21-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Branded kid's bicycle for sale  21-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Used girls bicycles for sale  20-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Bicycle of fantom  19-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Hercules bicycle for 6 years children  18-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Atlas contender shox bicycle  18-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Hero ranger swing bicycle for sale  16-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Orbitrek elite exercise bicycle for sale 2013 bought  16-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Hero 6-gear bicycle for 4,800 only; 10 months old in an excellent condition  15-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[I want to sell kids bicycle good condition  15-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[1 year old bicycle  14-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Kids bicycle aged 5 to 8 years  14-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Sale of my bicycle  13-Sep-14]]>
+            </line>
+            <line>
+              <![CDATA[Atlas kids bicycle for sale  13-Sep-14]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchDateSort -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.DateSorting@e89338]" name="after" is-config="true" duration-ms="0" started-at="2014-09-25T15:55:52Z" finished-at="2014-09-25T15:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.DateSorting -->
+    </test> <!-- Date Sorting Test -->
+    <test name="Reply To Ad Test" duration-ms="15116" started-at="2014-09-25T10:25:52Z" finished-at="2014-09-25T10:26:07Z">
+      <class name="tests.ReplyToAd">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:tests.ReplyToAd@c8ea1a]" name="initialize" is-config="true" duration-ms="10" started-at="2014-09-25T15:53:08Z" finished-at="2014-09-25T15:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.ReplyToAd@c8ea1a]" name="before" is-config="true" duration-ms="9513" started-at="2014-09-25T15:55:52Z" finished-at="2014-09-25T15:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="replyToAd()[pri:0, instance:tests.ReplyToAd@c8ea1a]" name="replyToAd" duration-ms="5601" started-at="2014-09-25T15:56:02Z" finished-at="2014-09-25T15:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- replyToAd -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.ReplyToAd@c8ea1a]" name="after" is-config="true" duration-ms="0" started-at="2014-09-25T15:56:07Z" finished-at="2014-09-25T15:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.ReplyToAd -->
+    </test> <!-- Reply To Ad Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>
